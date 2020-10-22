@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**bhanupratap31/bhanupratap31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+## Hi there 👋
 - 🔭 I’m currently working in Capgemini as an Analyst.
 - 🌱 I’m currently learning Data Structures and Algorithm / Competitive Programming.
 - 👯 I’m looking to collaborate on React and React Native.
