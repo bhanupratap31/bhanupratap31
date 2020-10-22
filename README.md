@@ -3,7 +3,6 @@
 <!--
 **bhanupratap31/bhanupratap31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Capgemini as an Analyst.
 - 🌱 I’m currently learning Data Structures and Algorithm / Competitive Programming.
